@@ -1,6 +1,12 @@
 # mopinion-sdk-android
 Mopinion Mobile SDK for android
 
+This mobile solution for Android provides you with an easy way of gathering feedback within your native Android application. This Mopinion SDK for Android offers various customisation options and a wide range of targeting features based on in-app user behaviour.
+
+For a more generic overview of the SDK possibilities please visit: 
+https://mopinion.com/mopinion-releases-new-mobile-sdk-in-app-feedback/
+
+
 ## install
 
 ### npm
